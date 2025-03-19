@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="title_activity_online">OnlineActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+</resources>
